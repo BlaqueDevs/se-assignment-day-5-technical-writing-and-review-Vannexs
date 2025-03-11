@@ -5,10 +5,12 @@
 Tech experts may prefer in-depth details, precise terminology, and efficiency in communication.
 Non-experts require simplified explanations, real-world analogies, and a more guided approach.
 Adjusting tone and depth ensures the message is understood without overwhelming or boring the audience.
+
 ## 2. What are some strategies to tailor your content to different audience types?
 For experts: Use concise, technical language, focus on problem-solving, and include advanced details.
 For non-experts: Use analogies, step-by-step explanations, and avoid assuming prior knowledge.
 For mixed audiences: Layer information, starting with high-level concepts and offering deeper insights optionally.
+
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
     Conduct surveys or interviews to understand their background.
